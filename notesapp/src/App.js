@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { nanoid } from "nanoid";
 import NoteList from "./components/NoteList";
-import { MdNotAccessible } from "react-icons/md";
+
 import Search from "./components/Search";
 import Header from "./components/Header";
 
